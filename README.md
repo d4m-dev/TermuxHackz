@@ -32,7 +32,7 @@ In this you will get a total of 350+ hacking tools for you to install into termu
 ### INSTALLATION [ TERMUX APP --ANDROID ]
 > git clone https://github.com/d4m-dev/TermuxHackz
 
-> cd tools-installer
+> cd TermuxHackz
 
 > chmod 777 *
 
@@ -42,7 +42,7 @@ In this you will get a total of 350+ hacking tools for you to install into termu
 ### INSTALLATION [ WINDOWS ]
 > git clone https://github.com/d4m-dev/TermuxHackz
 
-> cd tools-installer
+> cd TermuxHackz
 
 > bash tools-installer.sh
 
