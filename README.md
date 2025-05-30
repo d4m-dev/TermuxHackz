@@ -30,7 +30,7 @@ In this you will get a total of 350+ hacking tools for you to install into termu
 <br>
 
 ### INSTALLATION [ TERMUX APP --ANDROID ]
-> git clone https://github.com/TermuxHackz/tools-installer
+> git clone https://github.com/d4m-dev/TermuxHackz
 
 > cd tools-installer
 
@@ -40,7 +40,7 @@ In this you will get a total of 350+ hacking tools for you to install into termu
 
 
 ### INSTALLATION [ WINDOWS ]
-> git clone https://github.com/TermuxHackz/tools-installer
+> git clone https://github.com/d4m-dev/TermuxHackz
 
 > cd tools-installer
 
@@ -66,4 +66,4 @@ In this you will get a total of 350+ hacking tools for you to install into termu
 Visit this <a href="https://bit.ly/3tzpBC2" target="_blank">site</a> and get up to $25 dollars just for signing up, so easy, it is also very legal and not scam, I already verified the site and it is trusted, And i already Got <b>PAID!!!</b> and i want you to also partake in this.
 
 #### AUTHOR
-* AnonyminHack5
+* d4m-dev
