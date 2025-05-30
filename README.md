@@ -25,9 +25,11 @@ Telegram bot
 In this you will get a total of 350+ hacking tools for you to install into termux/kali/windows/ubuntu, suitable for pentesters, bug hunting, exploitation, mapping, etc. You can install these tools by just typing the number it falls under.
 
 #### SCREENSHOT (WINDOWS)
-<img src="https://github.com/TermuxHackz/tools-installer/blob/master/tools-Installer.PNG"/>
+<img src="https://github.com/d4m-dev/TermuxHackz/blob/master/tools-Installer.PNG"/>
 
 <br>
+
+
 
 ### INSTALLATION [ TERMUX APP --ANDROID ]
 > git clone https://github.com/d4m-dev/TermuxHackz
